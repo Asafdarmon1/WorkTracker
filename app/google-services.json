@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689673239430",
+    "project_id": "worktracker-da390",
+    "storage_bucket": "worktracker-da390.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689673239430:android:0d2ee32fe64c6d268aca07",
+        "android_client_info": {
+          "package_name": "com.example.worktracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689673239430-p66jb69ijea7frhsmp2thp5d25lfe660.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8NuRcUNILwdPTPYXnn_wIezo3Ticv0CI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689673239430-p66jb69ijea7frhsmp2thp5d25lfe660.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
